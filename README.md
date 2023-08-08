@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-sudo-web)](https://github.com/Yash-sudo-web/github-readme-stats)
 <!--
 **Yash-sudo-web/Yash-sudo-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
