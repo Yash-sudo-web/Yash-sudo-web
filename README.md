@@ -1,19 +1,19 @@
 ### Hey 👋, I'm Yash
 
 <a href="https://www.linkedin.com/in/yash-mathur-3a2aa21b7/">
-  <img align="left" alt="Yash's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yash's LinkdeIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://leetcode.com/ymathur123/">
-  <img align="left" alt="Yash's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Yash's Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
 <a href="https://open.spotify.com/user/31ptztzbzdzevgq6ovltmkef4hqi">
-  <img align="left" alt="Yash's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+  <img align="left" alt="Yash's Spotify" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Spotify.svg" />
 </a>
 <a href="https://www.reddit.com/u/YashMathur___">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Yash's Reddit" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Reddit.svg" />
 </a>
 <a href="https://twitter.com/YashMat03716307">
-  <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Yash's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 
 <br />
@@ -32,7 +32,6 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ymathur123@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1lSvLOL5lZxPbXVNBPsBfKKd2BnBFl63WcfEyoeFux4s/edit?usp=drive_link) to get more info.
-<br />
 <br />
 <br />
 <br />
