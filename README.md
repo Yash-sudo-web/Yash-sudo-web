@@ -36,11 +36,13 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 <br />
 <br />
 <br />
-<br />
-**Languages and Tools:**  
+
 <p align="center">
+
+**Languages and Tools:**
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
