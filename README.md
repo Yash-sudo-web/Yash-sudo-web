@@ -36,8 +36,6 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 - 📫 Please email via ymathur123@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1lSvLOL5lZxPbXVNBPsBfKKd2BnBFl63WcfEyoeFux4s/edit?usp=drive_link) to get more info.
 <br />
-<br />
-<br />
 
 <p align="center">
 
