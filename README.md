@@ -32,7 +32,9 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ymathur123@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1lSvLOL5lZxPbXVNBPsBfKKd2BnBFl63WcfEyoeFux4s/edit?usp=drive_link) to get more info.
-<br/><br/>
+<br />
+<br />
+<br />
 **Languages and Tools:**  
 <p align="center">
   <a href="https://skillicons.dev">
