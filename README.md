@@ -35,6 +35,8 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 <br />
 <br />
 <br />
+<br />
+<br />
 **Languages and Tools:**  
 <p align="center">
   <a href="https://skillicons.dev">
