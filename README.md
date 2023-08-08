@@ -32,7 +32,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ymathur123@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1lSvLOL5lZxPbXVNBPsBfKKd2BnBFl63WcfEyoeFux4s/edit?usp=drive_link) to get more info.
-
+<br/><br/>
 **Languages and Tools:**  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yash-sudo-web&show_icons=true&theme=radical" />
-  <br></br>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-sudo-web&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
 
