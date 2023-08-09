@@ -50,7 +50,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yash-sudo-web&show_icons=true&theme=radical" />
+  <img  align="center"  src="https://github-readme-stats-yash-sudo-web.vercel.app/api?username=Yash-sudo-web&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-sudo-web&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
