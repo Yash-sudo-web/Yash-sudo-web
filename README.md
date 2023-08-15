@@ -26,7 +26,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently a member of Frontend Team at [Doubtless](https://github.com/doubtless46);
 - 🌱 I’m currently learning Blockchain development; 
