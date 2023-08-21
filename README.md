@@ -34,7 +34,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ymathur123@gmail.com to reach me.
-- 📝 See my [Resume](https://docs.google.com/document/d/1lSvLOL5lZxPbXVNBPsBfKKd2BnBFl63WcfEyoeFux4s/edit?usp=drive_link) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1gCyPl44byf5PiJq5-sn-iJrcOYEjNLn4/view?usp=sharing) to get more info.
 <br />
 
 <p align="center">
