@@ -30,7 +30,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 
 - 👨🏽‍💻 I’m currently a member of Frontend Team at [Doubtless](https://github.com/doubtless46);
 - 🌱 I’m currently learning Blockchain development; 
-- 🤔 My interests are with Web Development, Open Source Contributions etc..;
+- 🤔 My interests are with Web Development, Open Source Contributions and technology in general.;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ymathur123@gmail.com to reach me.
