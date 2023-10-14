@@ -27,7 +27,7 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
 
 
 **Talking about Personal Stuff:**
-- 🌱 I’m currently learning Blockchain development; 
+- 🌱 I’m currently learning Cybersecurity; 
 - 🤔 My interests are with Web Development, Open Source Contributions and technology in general.;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
