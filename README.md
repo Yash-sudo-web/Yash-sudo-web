@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Science Engineering student** from India. Currently, I am learning Blockchain Development.
+Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Science Engineering student** from India.
 
   <img align="right" alt="GIF" src="https://github.com/Yash-sudo-web/Yash-sudo-web/assets/69838816/5dce168b-e2dc-4762-8321-f0eeda11262d" />
 
