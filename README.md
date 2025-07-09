@@ -19,30 +19,68 @@
 <br />
 <br />
 
-Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Science Engineering student** from India.
+I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Computer Science student**.
+ 
+<img align="right" alt="GIF" src="https://github.com/Yash-sudo-web/Yash-sudo-web/assets/69838816/5dce168b-e2dc-4762-8321-f0eeda11262d" />
 
-  <img align="right" alt="GIF" src="https://github.com/Yash-sudo-web/Yash-sudo-web/assets/69838816/5dce168b-e2dc-4762-8321-f0eeda11262d" />
+### 👨‍💻 About Me
 
+- 💡 Love working with and building **Distributed Systems**, **Low-level Design**, and **Scalable Architectures**  
+- 🧠 Currently exploring **Generative AI** and **LLM Prompting**  
+- 🚀 Scaling my GenAI project: [**PandaPrep**](https://pandaprepai.tech)  
+- 💻 Proficient in **JavaScript/TypeScript**, **Golang**, and **Python**  
+- 🛠️ Experienced with **CI/CD**, **Microservices**, and **System Design**  
+- 📬 Reach me at: **ymathur123@gmail.com**  
+- 🧾 [**View Resume**](https://drive.google.com/file/d/1gCyPl44byf5PiJq5-sn-iJrcOYEjNLn4/view?usp=sharing)
 
-
-
-**Talking about Personal Stuff:**
-- 🌱 I’m currently learning Golang; 
-- 🤔 My interests are with Web Development, Open Source Contributions and technology in general.;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ymathur123@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1gCyPl44byf5PiJq5-sn-iJrcOYEjNLn4/view?usp=sharing) to get more info.
 <br />
 
-<p align="center">
+---
 
-**Languages and Tools:**
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,docker,aws,vercel,linux,git,github,figma,postman,redis,java,c,cpp" />
+</a>
+
+---
+
+### 💼 Work Experience
+
+**SDE Intern @ Sustainiam**  
+*June 2024 – April 2025 (Remote, SF)*  
+- Scaled core product to handle **50k+ concurrent users**
+- Built frontend from scratch + backend modules with 80%+ test coverage
+- Automated deployment, testing, and cron systems (mailing → 60% renewal boost)
+
+**MERN Stack Intern @ Purezza Technologies**  
+*Oct 2023 – Nov 2023*  
+- Built job portal and wholesale e-commerce features with clean architecture
+- Dockerized backend services for efficient deployment
+
+---
+
+### 🌟 Featured Projects
+
+**🔹 [PandaPrep](https://pandaprepai.tech)** – *GenAI Notes Platform*  
+`MERN Stack, Azure, Socket Programming, GenAI`  
+> Agentic pipeline, 300+ users, real-time markdown + PDF generation, job queues with BullMQ
+
+**🔹 [Redis Implementation in Golang](https://github.com/Yash-sudo-web/redis-implementation-golang)**  
+`Golang, Concurrency, Docker, Resp Protocol, RDB Persistence, Socket Programming`  
+> Created Redis-compatible server/client with persistence, replication, and socket protocol
+
+---
+
+### 🧩 Open Source Contributions
+
+- ✅ **4× Hacktoberfest Contributor (2020–2024)**
+- 🔍 [Swirl](https://github.com/swirlai/swirl-search) – Built Algolia search provider ($100 bounty)
+- 🧬 [Novu-python](https://github.com/novuhq/novu-python) – Added Blueprint method support to SDK
+
+---
+
+### 📊 GitHub Stats
 
 <table align="center">
 <tr border="none">
@@ -60,3 +98,5 @@ Hi there, I'm **Yash Mathur**, a **Fullstack Developer** and a **Computer Scienc
   </td>
 </tr>
 </table>
+
+---
