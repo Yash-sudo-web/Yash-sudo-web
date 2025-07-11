@@ -100,3 +100,8 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 </table>
 
 ---
+
+### ☕ Support
+If you like my work, you can [buy me a coffee](coff.ee/ymathur123)!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](coff.ee/ymathur123)
