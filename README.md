@@ -24,7 +24,7 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 <img align="right" alt="GIF" src="https://github.com/Yash-sudo-web/Yash-sudo-web/assets/69838816/5dce168b-e2dc-4762-8321-f0eeda11262d" />
 
 ### 👨‍💻 About Me
-
+- Backend Engineeing Intern @smallcase
 - 💡 Love working with and building **Distributed Systems**, **Low-level Design**, and **Scalable Architectures**  
 - 🧠 Currently exploring **Generative AI** and **LLM Prompting**  
 - 🚀 Scaling my GenAI project: [**PandaPrep**](https://pandaprepai.tech)  
