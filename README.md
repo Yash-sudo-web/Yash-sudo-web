@@ -47,6 +47,10 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 
 ### 💼 Work Experience
 
+**Backend Engineering Intern @ smallcase**  
+*August 2025 – Present (Remote, Bangalore)*  
+- Built an **Evaluator Agentic AI** using Google’s Agent Development Kit (ADK) to process **500+ daily customer support copilot feedback entries**, pinpointing performance gaps and improving support quality.
+  
 **SDE Intern @ Sustainiam**  
 *June 2024 – April 2025 (Remote, SF)*  
 - Scaled core product to handle **50k+ concurrent users**
