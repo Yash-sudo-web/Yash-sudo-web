@@ -9,10 +9,7 @@
 <a href="https://open.spotify.com/user/31ptztzbzdzevgq6ovltmkef4hqi">
   <img align="left" alt="Yash's Spotify" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Spotify.svg" />
 </a>
-<a href="https://www.reddit.com/u/YashMathur___">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Reddit.svg" />
-</a>
-<a href="https://twitter.com/YashMat03716307">
+<a href="https://twitter.com/ymathur123">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 
