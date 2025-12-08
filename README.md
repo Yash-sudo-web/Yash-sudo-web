@@ -46,8 +46,8 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 
 **Backend Engineering Intern @ smallcase**  
 *August 2025 – Present (Remote, Bangalore)*  
+- Collaborated on developing an internal AI Platform from the ground up, enabling multiple teams to create custom Agentic AIs for diverse use cases, with integrated support for RAG collections, MCP servers, and extensible tools.
 - Built an **Evaluator Agentic AI** using Google’s Agent Development Kit (ADK) to process **500+ daily customer support copilot feedback entries**, pinpointing performance gaps and improving support quality.
-- Built an Evaluator Agentic AI using Google’s Agent Development Kit (ADK) to process 500+ daily customer support copilot feedback entries, pinpointing performance gaps and improving support quality.
 - Built an AI Agent to assist internal CX agents by contextualizing ongoing customer chats, retrieving customer data via tool calls, fetching relevant help articles from RAGs, and efficiently handling over 200+ CX queries daily.
   
 **SDE Intern @ Sustainiam**  
