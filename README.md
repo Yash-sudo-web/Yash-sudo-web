@@ -21,9 +21,9 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 <img align="right" alt="GIF" src="https://github.com/Yash-sudo-web/Yash-sudo-web/assets/69838816/5dce168b-e2dc-4762-8321-f0eeda11262d" />
 
 ### 👨‍💻 About Me
-- Backend Engineeing Intern @smallcase
-- 💡 Love working with and building **Distributed Systems**, **Low-level Design**, and **Scalable Architectures**  
-- 🧠 Currently exploring **Generative AI** and **LLM Prompting**  
+- SDE - I @smallcase
+- 💡 Love working with and building **Distributed Systems**, **Low-level Design**, and **Scalable Architectures**
+- 🤖 Hands-on experience building **production-grade Agentic AI systems** using **RAG Pipelines, MCPs, and tool-based orchestration**
 - 🚀 Scaling my GenAI project: [**PandaPrep**](https://pandaprepai.tech)  
 - 💻 Proficient in **JavaScript/TypeScript**, **Golang**, and **Python**  
 - 🛠️ Experienced with **CI/CD**, **Microservices**, and **System Design**  
@@ -37,18 +37,24 @@ I'm **Yash Mathur (He/Him)** — a **Full-stack Engineer** and **MSIT'26 Compute
 ### 🛠️ Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,docker,aws,vercel,linux,git,github,figma,postman,redis,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,react,nextjs,mongodb,postgres,redis,docker,kubernetes,aws,vercel,linux,git,github,postman,bash,java,c,cpp" />
 </a>
 
 ---
 
 ### 💼 Work Experience
 
+**SDE - I(Backend/AI) @ smallcase**
+*January 2026 – Present (Remote, Bangalore)*  
+- Converted from Backend Engineering Intern to full-time based on strong performance and impact.
+- Owned and contributed to an internal AI Platform used by 5+ teams, enabling development of Agentic AI systems with RAG pipelines, MCP servers, and extensible tools.
+- Built a Finance Analyst Agent in collaboration with quant analysts, integrating MCP tools, RAG knowledgebases, and domain-specific workflows.
+- Developed an internal AI Assistant for CX agents, handling 200+ daily queries via contextual chat understanding, tool calls, and RAG-based retrieval.
+
 **Backend Engineering Intern @ smallcase**  
-*August 2025 – Present (Remote, Bangalore)*  
-- Collaborated on developing an internal AI Platform from the ground up, enabling multiple teams to create custom Agentic AIs for diverse use cases, with integrated support for RAG collections, MCP servers, and extensible tools.
-- Built an **Evaluator Agentic AI** using Google’s Agent Development Kit (ADK) to process **500+ daily customer support copilot feedback entries**, pinpointing performance gaps and improving support quality.
-- Built an AI Agent to assist internal CX agents by contextualizing ongoing customer chats, retrieving customer data via tool calls, fetching relevant help articles from RAGs, and efficiently handling over 200+ CX queries daily.
+*August 2025 – January 2026 (Remote, Bangalore)*  
+- Contributed to early development of the internal AI Platform, including RAG pipelines, tool integrations, and agent workflows.
+- Built an Evaluator Agentic AI (Google ADK) processing 500+ daily support feedback entries to identify performance gaps and improve CX quality.
   
 **SDE Intern @ Sustainiam**  
 *June 2024 – April 2025 (Remote, SF)*  
